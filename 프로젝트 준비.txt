@@ -1,0 +1,13 @@
+데이터 명: 보건복지부_보건·복지현황_주요 사망 원인별 사망자 수
+
+
+
+경기도_노선별 버스 이용객수
+인증키 : 0a22f0d1987342ce8610103624245be9
+open API 주소: https://openapi.gg.go.kr/LINEBUSANULUSERCNTKEY=0a22f0d1987342ce8610103624245be9
+url: https://data.gg.go.kr/portal/data/service/selectServicePage.do?page=1&rows=10&sortColumn=&sortDirection=&infId=DAPGOOZCRQS7L32P7AWP32619343&infSeq=2&order=&loc=
+
+평일: 1
+주말: 2
+시간코드: 1시간 단위, 시작시간이 적혀있음
+년도, 월: 2023년 6월부터 12월사이
